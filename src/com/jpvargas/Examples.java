@@ -6,5 +6,10 @@ public class Examples {
 		// TODO Auto-generated method stub
 
 	}
-
+	public void example() {
+		
+	}
+	public void example2() {
+		
+	}
 }
