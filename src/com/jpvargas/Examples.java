@@ -12,4 +12,7 @@ public class Examples {
 	public void example2() {
 		
 	}
+	public void example3() {
+		
+	}
 }
