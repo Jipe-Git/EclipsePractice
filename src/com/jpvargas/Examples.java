@@ -15,5 +15,10 @@ public class Examples {
 	public void example3() {
 		
 	}
-	
+	public void example4() {
+		
+	}
+	public void example5() {
+		
+	}
 }
